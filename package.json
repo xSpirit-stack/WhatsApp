@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-media-decoder",
+  "version": "1.0.0",
+  "description": "WhatsApp media decoder for encrypted media files",
+  "main": "decode.js",
+  "scripts": {
+    "start": "node decode.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "decoder",
+    "media"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "1.7.9",
+    "crypto": "^1.0.1",
+    "express": "^5.0.1"
+  }
+}
